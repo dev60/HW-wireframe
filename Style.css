@@ -1,0 +1,15 @@
+Header{
+	height:20px;
+	width: 30%;
+	background-color: green;
+color: blue;
+margin: 0 auto;
+padding: 10px 0 10px 0;
+text-align: center;
+}
+nav{height: 50px;
+text-align: center;
+font-size: 50px;
+background-color: blue;
+margin: 20px auto 0 auto; 
+width: 30%;}
